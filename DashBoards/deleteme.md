@@ -1,0 +1,1 @@
+Nasib, yo chai demo folder structure banauna ko laagi banako hai. Yo deleteme.md file na banako vae chai yo folder github ma push hudaina thyo. Jaba DashBoard banayera yo folder ma halxau delete garnu parxa yo deleteme.md vanne file chai.
