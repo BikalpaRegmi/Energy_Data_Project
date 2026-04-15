@@ -1,0 +1,11 @@
+Parameter,Value,Category
+Max. Efficiency,99.00%,Performance
+European Efficiency,98.80%,Performance
+Max. Input Voltage,1500,Input
+Max. Current per MPPT,30,Input
+MPPT Operating Voltage Range,500,Input
+Number of MPP Trackers,9,Design
+AC Output Power,200000,Output
+Max. AC Apparent Power,215000,Output
+Nominal Output Voltage,800,Output
+Max. Output Current,155.2,Output
