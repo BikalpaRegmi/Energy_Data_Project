@@ -42,7 +42,7 @@ damaged.
 - The overall DC_Power and Performance performed well in high irridation
 despite some panel being fault.
 
-[View Full Final Presentation here]()
+[View Full Final Presentation here](https://github.com/BikalpaRegmi/Energy_Data_Project/blob/main/Final_Presentations/Final_Presentation.pdf)
 
 ## Future Improvements
 
